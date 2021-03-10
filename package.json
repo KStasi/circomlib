@@ -26,7 +26,7 @@
   "dependencies": {
     "blake-hash": "^1.1.0",
     "blake2b": "^2.1.3",
-    "snarkjs": "git+https://github.com/KStasi/snarkjs.git#302ce79179eb52db4c589bb862b2c99b625f90b4",
+    "snarkjs": "git+https://github.com/KStasi/snarkjs.git#1e202a236ba5ceeca0a0c5aeba7c7be4f612da88",
     "typedarray-to-buffer": "^3.1.5",
     "web3": "^1.2.11"
   },
